@@ -1,0 +1,71 @@
+{
+    "info": {
+        "id": "759842",
+        "name": "Thaadiwala Town Restaurant",
+        "cloudinaryImageId": "ab9be34942a664619a3d2f859852af3e",
+        "locality": "North Street",
+        "areaName": "Thiruvarur",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "Chinese",
+            "Biryani"
+        ],
+        "avgRating": 3.6,
+        "parentId": "450650",
+        "avgRatingString": "3.6",
+        "totalRatingsString": "50+",
+        "sla": {
+            "deliveryTime": 20,
+            "lastMileTravel": 1.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "15-20 mins",
+            "lastMileTravelString": "1.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-02 21:31:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹85 OFF",
+            "subHeader": "ABOVE ₹149",
+            "discountTag": "MIN"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-90298b5b-fb74-4962-98e5-c3ec370baabe"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/thaadiwala-town-restaurant-north-street-thiruvarur-thiruvarur-759842",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
